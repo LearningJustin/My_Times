@@ -29,8 +29,11 @@ header {
   color: MediumAquamarine;
 }
 
-.navigation {
+a {
   color: black;
+}
+
+.navigation {
   display: inline-block;
   justify-content: flex-end;
   padding-right: 40px;
